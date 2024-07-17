@@ -8,9 +8,7 @@ The dataset is generated synthetically by randomly assigning the pixel with a va
 
 ## Model
 
-A CNN model is built using TensorFlow and Keras. The model predicts the coordinates of the pixel with value 255. Model consist of First Convolutional Layer followed by Max Pooling Layer and Second Convolutional Layer followed by Max Pooling Layer then Flatten Layer. For more info refer 
-```bash 
-Mode.cfg file 
+A CNN model is built using TensorFlow and Keras. The model predicts the coordinates of the pixel with value 255. Model consist of First Convolutional Layer followed by Max Pooling Layer and Second Convolutional Layer followed by Max Pooling Layer then Flatten Layer. For more info refer '**Model.cfg**' file 
 
 ## Training
 
